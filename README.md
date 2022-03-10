@@ -1,4 +1,4 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# 🏗 scaffold-eth
 
 ## 🚩 Challenge 5: Minimum Viable Exchange
 
