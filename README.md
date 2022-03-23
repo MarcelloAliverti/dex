@@ -24,5 +24,3 @@ You'll have three terminals up for:
 `yarn chain` (hardhat backend)
 
 `yarn deploy` (to compile, deploy, and publish your contracts to the frontend)
-
-Navigate to the Debug Contracts tab and you should see two smart contracts displayed called `DEX` and `Balloons`.
